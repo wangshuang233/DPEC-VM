@@ -1,7 +1,8 @@
 ## Introduction
 The code implementation of VMLL is provided here. As a low-light image enhancement algorithm based on VMamba architecture, VMLL only needs to use a small amount of computing resources to achieve good image enhancement. If you find this repo useful, please give it a star ⭐ and consider citing our paper in your research. Thank you.
 
-![image](./figures/fig1.png) 
+![fig1](https://github.com/user-attachments/assets/4311f3e4-47b1-47ba-a827-72822c090e63)
+
 ## Results
 - Results on LOL-v1, LOL-v2-real, LOL-v2-synthetic,and LSRW datasets can be downloaded from [Baidu Disk](https://pan.baidu.com/s/1fDHPUuLadmdnZPSJhx_upg) (code: `VMLL`)
 
@@ -61,9 +62,10 @@ python test.py --test_folder ./datasets/LOLv2_en/Synthetic/test/low --modelfile 
 #LSRW
 python test.py --test_folder ./datasets/LSRW/test/low --modelfile ./pretrained_weights/VMLL/LSRW.pth
 ```
-![image](./figures/fig2.png) 
-![image](./figures/fig3.png) 
-![image](./figures/fig4.png) 
+![fig2](https://github.com/user-attachments/assets/c2221c48-eac6-48f2-a67b-fa729c86d902)
+![fig3](https://github.com/user-attachments/assets/6a88c163-832e-4b79-a503-c197674af797)
+![fig4](https://github.com/user-attachments/assets/6d6cad89-f3e8-474c-850c-ee3a8f0739f4)
+
 &nbsp;
 
 
