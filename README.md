@@ -1,5 +1,5 @@
 ## Introduction
-The code implementation of VMLL is provided here. As a low-light image enhancement algorithm based on VMamba architecture, VMLL only needs to use a small amount of computing resources to achieve good image enhancement. If you find this repo useful, please give it a star ⭐ and consider citing our paper in your research. Thank you.
+The code implementation of DPEC is provided here. As a low-light image enhancement algorithm based on VMamba architecture, DPEC only needs to use a small amount of computing resources to achieve good image enhancement. If you find this repo useful, please give it a star ⭐ and consider citing our paper in your research. Thank you.
 
 ![fig1](./figures/fig1.png)
 
