@@ -1,6 +1,7 @@
 ## Introduction
 The code implementation of DPEC is provided here. As a low-light image enhancement algorithm based on VMamba architecture, DPEC only needs to use a small amount of computing resources to achieve good image enhancement. If you find this repo useful, please give it a star ⭐ and consider citing our paper in your research. Thank you.
-
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/resvmunetx-a-low-light-enhancement-network/low-light-image-enhancement-on-lolv2-1)](https://paperswithcode.com/sota/low-light-image-enhancement-on-lolv2-1?p=resvmunetx-a-low-light-enhancement-network)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/resvmunetx-a-low-light-enhancement-network/low-light-image-enhancement-on-lsrw)](https://paperswithcode.com/sota/low-light-image-enhancement-on-lsrw?p=resvmunetx-a-low-light-enhancement-network)
 ![fig1](./figures/fig1.png)
 
 ## Results
